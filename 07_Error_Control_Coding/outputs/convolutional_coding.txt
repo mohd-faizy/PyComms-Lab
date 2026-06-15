@@ -1,9 +1,0 @@
-================================================================================
-Simulation Output Log
-Script: 07_Error_Control_Coding/convolutional_coding.py
-Status: SUCCESS
-================================================================================
-
---- Standard Output ---
-Input bits:   1011001
-Encoded bits: 11100001011111

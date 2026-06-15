@@ -1,8 +1,0 @@
-================================================================================
-Simulation Output Log
-Script: 21_Mini_Projects/chat_application_socket.py
-Status: TIMEOUT
-================================================================================
-
---- Standard Error / Warnings ---
-[RUNNER] Process timed out after 2.0 seconds.

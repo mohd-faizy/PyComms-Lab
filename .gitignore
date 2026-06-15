@@ -11,3 +11,7 @@ env/
 
 # OS generated files
 .DS_Store
+
+# Ignore generated output text logs to prevent privacy leaks
+outputs/*.txt
+*/outputs/*.txt
