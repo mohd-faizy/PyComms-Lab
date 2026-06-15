@@ -57,266 +57,266 @@ Below is the complete curriculum index of all simulation scripts, including dire
 
 Folder path: [`01_Probability_Random_Variables_and_Noise`](01_Probability_Random_Variables_and_Noise)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`central_limit_theorem.py`](01_Probability_Random_Variables_and_Noise/central_limit_theorem.py) | [Plot 1](01_Probability_Random_Variables_and_Noise/outputs/central_limit_theorem_fig1.png), [Plot 2](01_Probability_Random_Variables_and_Noise/outputs/central_limit_theorem_fig2.png) | Central Limit Theorem demonstration. |
-| [`gaussian_pdf_cdf.py`](01_Probability_Random_Variables_and_Noise/gaussian_pdf_cdf.py) | [Plot](01_Probability_Random_Variables_and_Noise/outputs/gaussian_pdf_cdf.png) | Gaussian PDF and CDF visualization. |
-| [`noise_types.py`](01_Probability_Random_Variables_and_Noise/noise_types.py) | [Plot](01_Probability_Random_Variables_and_Noise/outputs/noise_types.png) | Noise types in communication systems. |
-| [`probability_distributions.py`](01_Probability_Random_Variables_and_Noise/probability_distributions.py) | [Plot](01_Probability_Random_Variables_and_Noise/outputs/probability_distributions.png) | Probability distributions used in communication engineering. |
-| [`random_processes.py`](01_Probability_Random_Variables_and_Noise/random_processes.py) | [Plot](01_Probability_Random_Variables_and_Noise/outputs/random_processes.png) | Random processes: autocorrelation and power spectral density. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`central_limit_theorem.py`](01_Probability_Random_Variables_and_Noise/central_limit_theorem.py) | <img src="01_Probability_Random_Variables_and_Noise/outputs/central_limit_theorem_fig1.png" width="300" alt="Plot 1"> <br> <img src="01_Probability_Random_Variables_and_Noise/outputs/central_limit_theorem_fig2.png" width="300" alt="Plot 2"> |
+| [`gaussian_pdf_cdf.py`](01_Probability_Random_Variables_and_Noise/gaussian_pdf_cdf.py) | <img src="01_Probability_Random_Variables_and_Noise/outputs/gaussian_pdf_cdf.png" width="300" alt="Plot"> |
+| [`noise_types.py`](01_Probability_Random_Variables_and_Noise/noise_types.py) | <img src="01_Probability_Random_Variables_and_Noise/outputs/noise_types.png" width="300" alt="Plot"> |
+| [`probability_distributions.py`](01_Probability_Random_Variables_and_Noise/probability_distributions.py) | <img src="01_Probability_Random_Variables_and_Noise/outputs/probability_distributions.png" width="300" alt="Plot"> |
+| [`random_processes.py`](01_Probability_Random_Variables_and_Noise/random_processes.py) | <img src="01_Probability_Random_Variables_and_Noise/outputs/random_processes.png" width="300" alt="Plot"> |
 
 ### 02. Signals and Systems
 
 Folder path: [`02_Signals_and_Systems`](02_Signals_and_Systems)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`basic_signals_generation.py`](02_Signals_and_Systems/basic_signals_generation.py) | [Plot](02_Signals_and_Systems/outputs/basic_signals_generation.png) | Simulation script. |
-| [`convolution.py`](02_Signals_and_Systems/convolution.py) | [Plot](02_Signals_and_Systems/outputs/convolution.png) | Simulation script. |
-| [`fft_analysis.py`](02_Signals_and_Systems/fft_analysis.py) | [Plot](02_Signals_and_Systems/outputs/fft_analysis.png) | Simulation script. |
-| [`fourier_series.py`](02_Signals_and_Systems/fourier_series.py) | [Plot](02_Signals_and_Systems/outputs/fourier_series.png) | Simulation script. |
-| [`sampling_aliasing.py`](02_Signals_and_Systems/sampling_aliasing.py) | [Plot](02_Signals_and_Systems/outputs/sampling_aliasing.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`basic_signals_generation.py`](02_Signals_and_Systems/basic_signals_generation.py) | <img src="02_Signals_and_Systems/outputs/basic_signals_generation.png" width="300" alt="Plot"> |
+| [`convolution.py`](02_Signals_and_Systems/convolution.py) | <img src="02_Signals_and_Systems/outputs/convolution.png" width="300" alt="Plot"> |
+| [`fft_analysis.py`](02_Signals_and_Systems/fft_analysis.py) | <img src="02_Signals_and_Systems/outputs/fft_analysis.png" width="300" alt="Plot"> |
+| [`fourier_series.py`](02_Signals_and_Systems/fourier_series.py) | <img src="02_Signals_and_Systems/outputs/fourier_series.png" width="300" alt="Plot"> |
+| [`sampling_aliasing.py`](02_Signals_and_Systems/sampling_aliasing.py) | <img src="02_Signals_and_Systems/outputs/sampling_aliasing.png" width="300" alt="Plot"> |
 
 ### 03. Analog Modulation
 
 Folder path: [`03_Analog_Modulation`](03_Analog_Modulation)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`am_modulation_demodulation.py`](03_Analog_Modulation/am_modulation_demodulation.py) | [Plot](03_Analog_Modulation/outputs/am_modulation_demodulation.png) | Simulation script. |
-| [`fm_modulation.py`](03_Analog_Modulation/fm_modulation.py) | [Plot](03_Analog_Modulation/outputs/fm_modulation.png) | Simulation script. |
-| [`pm_modulation.py`](03_Analog_Modulation/pm_modulation.py) | [Plot](03_Analog_Modulation/outputs/pm_modulation.png) | Simulation script. |
-| [`ssb_dsb_modulation.py`](03_Analog_Modulation/ssb_dsb_modulation.py) | [Plot](03_Analog_Modulation/outputs/ssb_dsb_modulation.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`am_modulation_demodulation.py`](03_Analog_Modulation/am_modulation_demodulation.py) | <img src="03_Analog_Modulation/outputs/am_modulation_demodulation.png" width="300" alt="Plot"> |
+| [`fm_modulation.py`](03_Analog_Modulation/fm_modulation.py) | <img src="03_Analog_Modulation/outputs/fm_modulation.png" width="300" alt="Plot"> |
+| [`pm_modulation.py`](03_Analog_Modulation/pm_modulation.py) | <img src="03_Analog_Modulation/outputs/pm_modulation.png" width="300" alt="Plot"> |
+| [`ssb_dsb_modulation.py`](03_Analog_Modulation/ssb_dsb_modulation.py) | <img src="03_Analog_Modulation/outputs/ssb_dsb_modulation.png" width="300" alt="Plot"> |
 
 ### 04. Digital Modulation
 
 Folder path: [`04_Digital_Modulation`](04_Digital_Modulation)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`ask_modulation.py`](04_Digital_Modulation/ask_modulation.py) | [Plot](04_Digital_Modulation/outputs/ask_modulation.png) | Simulation script. |
-| [`constellation_diagrams.py`](04_Digital_Modulation/constellation_diagrams.py) | [Plot](04_Digital_Modulation/outputs/constellation_diagrams.png) | Simulation script. |
-| [`fsk_modulation.py`](04_Digital_Modulation/fsk_modulation.py) | [Plot](04_Digital_Modulation/outputs/fsk_modulation.png) | Simulation script. |
-| [`psk_bpsk_qpsk.py`](04_Digital_Modulation/psk_bpsk_qpsk.py) | [Plot](04_Digital_Modulation/outputs/psk_bpsk_qpsk.png) | Simulation script. |
-| [`qam16_modulation_demodulation.py`](04_Digital_Modulation/qam16_modulation_demodulation.py) | [Plot](04_Digital_Modulation/outputs/qam16_modulation_demodulation.png) | Simulation script. |
-| [`qam_modulation.py`](04_Digital_Modulation/qam_modulation.py) | [Plot](04_Digital_Modulation/outputs/qam_modulation.png) | Simulation script. |
-| [`qpsk_modulation_demodulation.py`](04_Digital_Modulation/qpsk_modulation_demodulation.py) | [Plot](04_Digital_Modulation/outputs/qpsk_modulation_demodulation.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`ask_modulation.py`](04_Digital_Modulation/ask_modulation.py) | <img src="04_Digital_Modulation/outputs/ask_modulation.png" width="300" alt="Plot"> |
+| [`constellation_diagrams.py`](04_Digital_Modulation/constellation_diagrams.py) | <img src="04_Digital_Modulation/outputs/constellation_diagrams.png" width="300" alt="Plot"> |
+| [`fsk_modulation.py`](04_Digital_Modulation/fsk_modulation.py) | <img src="04_Digital_Modulation/outputs/fsk_modulation.png" width="300" alt="Plot"> |
+| [`psk_bpsk_qpsk.py`](04_Digital_Modulation/psk_bpsk_qpsk.py) | <img src="04_Digital_Modulation/outputs/psk_bpsk_qpsk.png" width="300" alt="Plot"> |
+| [`qam16_modulation_demodulation.py`](04_Digital_Modulation/qam16_modulation_demodulation.py) | <img src="04_Digital_Modulation/outputs/qam16_modulation_demodulation.png" width="300" alt="Plot"> |
+| [`qam_modulation.py`](04_Digital_Modulation/qam_modulation.py) | <img src="04_Digital_Modulation/outputs/qam_modulation.png" width="300" alt="Plot"> |
+| [`qpsk_modulation_demodulation.py`](04_Digital_Modulation/qpsk_modulation_demodulation.py) | <img src="04_Digital_Modulation/outputs/qpsk_modulation_demodulation.png" width="300" alt="Plot"> |
 
 ### 05. Pulse Modulation
 
 Folder path: [`05_Pulse_Modulation`](05_Pulse_Modulation)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`adaptive_delta_modulation.py`](05_Pulse_Modulation/adaptive_delta_modulation.py) | [Plot](05_Pulse_Modulation/outputs/adaptive_delta_modulation.png) | Simulation script. |
-| [`delta_modulation.py`](05_Pulse_Modulation/delta_modulation.py) | [Plot](05_Pulse_Modulation/outputs/delta_modulation.png) | Simulation script. |
-| [`pam.py`](05_Pulse_Modulation/pam.py) | [Plot](05_Pulse_Modulation/outputs/pam.png) | Simulation script. |
-| [`pcm_encoding_decoding.py`](05_Pulse_Modulation/pcm_encoding_decoding.py) | [Plot](05_Pulse_Modulation/outputs/pcm_encoding_decoding.png) | Simulation script. |
-| [`pwm_ppm.py`](05_Pulse_Modulation/pwm_ppm.py) | [Plot](05_Pulse_Modulation/outputs/pwm_ppm.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`adaptive_delta_modulation.py`](05_Pulse_Modulation/adaptive_delta_modulation.py) | <img src="05_Pulse_Modulation/outputs/adaptive_delta_modulation.png" width="300" alt="Plot"> |
+| [`delta_modulation.py`](05_Pulse_Modulation/delta_modulation.py) | <img src="05_Pulse_Modulation/outputs/delta_modulation.png" width="300" alt="Plot"> |
+| [`pam.py`](05_Pulse_Modulation/pam.py) | <img src="05_Pulse_Modulation/outputs/pam.png" width="300" alt="Plot"> |
+| [`pcm_encoding_decoding.py`](05_Pulse_Modulation/pcm_encoding_decoding.py) | <img src="05_Pulse_Modulation/outputs/pcm_encoding_decoding.png" width="300" alt="Plot"> |
+| [`pwm_ppm.py`](05_Pulse_Modulation/pwm_ppm.py) | <img src="05_Pulse_Modulation/outputs/pwm_ppm.png" width="300" alt="Plot"> |
 
 ### 06. Information Theory and Coding
 
 Folder path: [`06_Information_Theory_and_Coding`](06_Information_Theory_and_Coding)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`channel_capacity.py`](06_Information_Theory_and_Coding/channel_capacity.py) | [Plot](06_Information_Theory_and_Coding/outputs/channel_capacity.png) | Simulation script. |
-| [`entropy_calculation.py`](06_Information_Theory_and_Coding/entropy_calculation.py) | - | Simulation script. |
-| [`huffman_coding.py`](06_Information_Theory_and_Coding/huffman_coding.py) | - | Simulation script. |
-| [`lempel_ziv_coding.py`](06_Information_Theory_and_Coding/lempel_ziv_coding.py) | [Plot](06_Information_Theory_and_Coding/outputs/lempel_ziv_coding.png) | Lempel-Ziv (LZ78) Compression Algorithm Demonstration. |
-| [`mutual_information.py`](06_Information_Theory_and_Coding/mutual_information.py) | [Plot](06_Information_Theory_and_Coding/outputs/mutual_information.png) | Mutual Information and BSC Channel Capacity. |
-| [`rate_distortion.py`](06_Information_Theory_and_Coding/rate_distortion.py) | [Plot](06_Information_Theory_and_Coding/outputs/rate_distortion.png) | Rate-Distortion Functions for Gaussian and Binary Sources. |
-| [`shannon_fano_coding.py`](06_Information_Theory_and_Coding/shannon_fano_coding.py) | - | Simulation script. |
-| [`source_coding_efficiency.py`](06_Information_Theory_and_Coding/source_coding_efficiency.py) | - | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`channel_capacity.py`](06_Information_Theory_and_Coding/channel_capacity.py) | <img src="06_Information_Theory_and_Coding/outputs/channel_capacity.png" width="300" alt="Plot"> |
+| [`entropy_calculation.py`](06_Information_Theory_and_Coding/entropy_calculation.py) | - |
+| [`huffman_coding.py`](06_Information_Theory_and_Coding/huffman_coding.py) | - |
+| [`lempel_ziv_coding.py`](06_Information_Theory_and_Coding/lempel_ziv_coding.py) | <img src="06_Information_Theory_and_Coding/outputs/lempel_ziv_coding.png" width="300" alt="Plot"> |
+| [`mutual_information.py`](06_Information_Theory_and_Coding/mutual_information.py) | <img src="06_Information_Theory_and_Coding/outputs/mutual_information.png" width="300" alt="Plot"> |
+| [`rate_distortion.py`](06_Information_Theory_and_Coding/rate_distortion.py) | <img src="06_Information_Theory_and_Coding/outputs/rate_distortion.png" width="300" alt="Plot"> |
+| [`shannon_fano_coding.py`](06_Information_Theory_and_Coding/shannon_fano_coding.py) | - |
+| [`source_coding_efficiency.py`](06_Information_Theory_and_Coding/source_coding_efficiency.py) | - |
 
 ### 07. Error Control Coding
 
 Folder path: [`07_Error_Control_Coding`](07_Error_Control_Coding)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`bch_code.py`](07_Error_Control_Coding/bch_code.py) | [Plot](07_Error_Control_Coding/outputs/bch_code.png) | Bose-Chaudhuri-Hocquenghem (BCH) Cyclic Code. |
-| [`convolutional_coding.py`](07_Error_Control_Coding/convolutional_coding.py) | - | Simulation script. |
-| [`cyclic_redundancy_check.py`](07_Error_Control_Coding/cyclic_redundancy_check.py) | - | Simulation script. |
-| [`hamming_code.py`](07_Error_Control_Coding/hamming_code.py) | - | Simulation script. |
-| [`linear_block_codes.py`](07_Error_Control_Coding/linear_block_codes.py) | - | Simulation script. |
-| [`reed_solomon_coding.py`](07_Error_Control_Coding/reed_solomon_coding.py) | [Plot](07_Error_Control_Coding/outputs/reed_solomon_coding.png) | Reed-Solomon Error Control Coding. |
-| [`turbo_code_basics.py`](07_Error_Control_Coding/turbo_code_basics.py) | [Plot](07_Error_Control_Coding/outputs/turbo_code_basics.png) | Turbo Code Encoder and Iterative Decoder. |
-| [`viterbi_decoder.py`](07_Error_Control_Coding/viterbi_decoder.py) | - | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`bch_code.py`](07_Error_Control_Coding/bch_code.py) | <img src="07_Error_Control_Coding/outputs/bch_code.png" width="300" alt="Plot"> |
+| [`convolutional_coding.py`](07_Error_Control_Coding/convolutional_coding.py) | - |
+| [`cyclic_redundancy_check.py`](07_Error_Control_Coding/cyclic_redundancy_check.py) | - |
+| [`hamming_code.py`](07_Error_Control_Coding/hamming_code.py) | - |
+| [`linear_block_codes.py`](07_Error_Control_Coding/linear_block_codes.py) | - |
+| [`reed_solomon_coding.py`](07_Error_Control_Coding/reed_solomon_coding.py) | <img src="07_Error_Control_Coding/outputs/reed_solomon_coding.png" width="300" alt="Plot"> |
+| [`turbo_code_basics.py`](07_Error_Control_Coding/turbo_code_basics.py) | <img src="07_Error_Control_Coding/outputs/turbo_code_basics.png" width="300" alt="Plot"> |
+| [`viterbi_decoder.py`](07_Error_Control_Coding/viterbi_decoder.py) | - |
 
 ### 08. Data Transmission and Line Coding
 
 Folder path: [`08_Data_Transmission_and_Line_Coding`](08_Data_Transmission_and_Line_Coding)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`baseband_transmission.py`](08_Data_Transmission_and_Line_Coding/baseband_transmission.py) | [Plot](08_Data_Transmission_and_Line_Coding/outputs/baseband_transmission.png) | Complete baseband digital transmission system. |
-| [`eye_diagram.py`](08_Data_Transmission_and_Line_Coding/eye_diagram.py) | [Plot](08_Data_Transmission_and_Line_Coding/outputs/eye_diagram.png) | Eye diagram generation for baseband digital transmission. |
-| [`intersymbol_interference.py`](08_Data_Transmission_and_Line_Coding/intersymbol_interference.py) | [Plot 1](08_Data_Transmission_and_Line_Coding/outputs/intersymbol_interference_fig1.png), [Plot 2](08_Data_Transmission_and_Line_Coding/outputs/intersymbol_interference_fig2.png) | Inter-Symbol Interference (ISI) and pulse shaping. |
-| [`line_coding_schemes.py`](08_Data_Transmission_and_Line_Coding/line_coding_schemes.py) | [Plot](08_Data_Transmission_and_Line_Coding/outputs/line_coding_schemes.png) | Line coding schemes used in digital data transmission. |
-| [`scrambler_descrambler.py`](08_Data_Transmission_and_Line_Coding/scrambler_descrambler.py) | [Plot](08_Data_Transmission_and_Line_Coding/outputs/scrambler_descrambler.png) | Scrambler and descrambler for digital data transmission. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`baseband_transmission.py`](08_Data_Transmission_and_Line_Coding/baseband_transmission.py) | <img src="08_Data_Transmission_and_Line_Coding/outputs/baseband_transmission.png" width="300" alt="Plot"> |
+| [`eye_diagram.py`](08_Data_Transmission_and_Line_Coding/eye_diagram.py) | <img src="08_Data_Transmission_and_Line_Coding/outputs/eye_diagram.png" width="300" alt="Plot"> |
+| [`intersymbol_interference.py`](08_Data_Transmission_and_Line_Coding/intersymbol_interference.py) | <img src="08_Data_Transmission_and_Line_Coding/outputs/intersymbol_interference_fig1.png" width="300" alt="Plot 1"> <br> <img src="08_Data_Transmission_and_Line_Coding/outputs/intersymbol_interference_fig2.png" width="300" alt="Plot 2"> |
+| [`line_coding_schemes.py`](08_Data_Transmission_and_Line_Coding/line_coding_schemes.py) | <img src="08_Data_Transmission_and_Line_Coding/outputs/line_coding_schemes.png" width="300" alt="Plot"> |
+| [`scrambler_descrambler.py`](08_Data_Transmission_and_Line_Coding/scrambler_descrambler.py) | <img src="08_Data_Transmission_and_Line_Coding/outputs/scrambler_descrambler.png" width="300" alt="Plot"> |
 
 ### 09. AWGN and Channel Modeling
 
 Folder path: [`09_AWGN_and_Channel_Modeling`](09_AWGN_and_Channel_Modeling)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`awgn_capacity.py`](09_AWGN_and_Channel_Modeling/awgn_capacity.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/awgn_capacity.png) | Shannon Channel Capacity of AWGN Channel. |
-| [`awgn_channel.py`](09_AWGN_and_Channel_Modeling/awgn_channel.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/awgn_channel.png) | Simulation script. |
-| [`ber_vs_snr_bpsk.py`](09_AWGN_and_Channel_Modeling/ber_vs_snr_bpsk.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/ber_vs_snr_bpsk.png) | Simulation script. |
-| [`ber_vs_snr_qpsk.py`](09_AWGN_and_Channel_Modeling/ber_vs_snr_qpsk.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/ber_vs_snr_qpsk.png) | Simulation script. |
-| [`channel_estimation.py`](09_AWGN_and_Channel_Modeling/channel_estimation.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/channel_estimation.png) | Pilot-based Channel Estimation (LS vs. MMSE). |
-| [`multipath_channel.py`](09_AWGN_and_Channel_Modeling/multipath_channel.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/multipath_channel.png) | Multipath Channel Simulation and Frequency Selective Fading. |
-| [`rayleigh_fading.py`](09_AWGN_and_Channel_Modeling/rayleigh_fading.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/rayleigh_fading.png) | Simulation script. |
-| [`rician_fading.py`](09_AWGN_and_Channel_Modeling/rician_fading.py) | [Plot](09_AWGN_and_Channel_Modeling/outputs/rician_fading.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`awgn_capacity.py`](09_AWGN_and_Channel_Modeling/awgn_capacity.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/awgn_capacity.png" width="300" alt="Plot"> |
+| [`awgn_channel.py`](09_AWGN_and_Channel_Modeling/awgn_channel.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/awgn_channel.png" width="300" alt="Plot"> |
+| [`ber_vs_snr_bpsk.py`](09_AWGN_and_Channel_Modeling/ber_vs_snr_bpsk.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/ber_vs_snr_bpsk.png" width="300" alt="Plot"> |
+| [`ber_vs_snr_qpsk.py`](09_AWGN_and_Channel_Modeling/ber_vs_snr_qpsk.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/ber_vs_snr_qpsk.png" width="300" alt="Plot"> |
+| [`channel_estimation.py`](09_AWGN_and_Channel_Modeling/channel_estimation.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/channel_estimation.png" width="300" alt="Plot"> |
+| [`multipath_channel.py`](09_AWGN_and_Channel_Modeling/multipath_channel.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/multipath_channel.png" width="300" alt="Plot"> |
+| [`rayleigh_fading.py`](09_AWGN_and_Channel_Modeling/rayleigh_fading.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/rayleigh_fading.png" width="300" alt="Plot"> |
+| [`rician_fading.py`](09_AWGN_and_Channel_Modeling/rician_fading.py) | <img src="09_AWGN_and_Channel_Modeling/outputs/rician_fading.png" width="300" alt="Plot"> |
 
 ### 10. Multiplexing and Multiple Access
 
 Folder path: [`10_Multiplexing_and_Multiple_Access`](10_Multiplexing_and_Multiple_Access)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`aloha_simulation.py`](10_Multiplexing_and_Multiple_Access/aloha_simulation.py) | [Plot](10_Multiplexing_and_Multiple_Access/outputs/aloha_simulation.png) | Pure and Slotted ALOHA Multiple Access Throughput. |
-| [`cdma_simulation.py`](10_Multiplexing_and_Multiple_Access/cdma_simulation.py) | - | Simulation script. |
-| [`fdm_simulation.py`](10_Multiplexing_and_Multiple_Access/fdm_simulation.py) | [Plot](10_Multiplexing_and_Multiple_Access/outputs/fdm_simulation.png) | Simulation script. |
-| [`ofdm_simulation.py`](10_Multiplexing_and_Multiple_Access/ofdm_simulation.py) | [Plot](10_Multiplexing_and_Multiple_Access/outputs/ofdm_simulation.png) | Simulation script. |
-| [`tdm_simulation.py`](10_Multiplexing_and_Multiple_Access/tdm_simulation.py) | [Plot](10_Multiplexing_and_Multiple_Access/outputs/tdm_simulation.png) | Simulation script. |
-| [`wdm_simulation.py`](10_Multiplexing_and_Multiple_Access/wdm_simulation.py) | [Plot](10_Multiplexing_and_Multiple_Access/outputs/wdm_simulation.png) | Wavelength Division Multiplexing (WDM) Simulation. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`aloha_simulation.py`](10_Multiplexing_and_Multiple_Access/aloha_simulation.py) | <img src="10_Multiplexing_and_Multiple_Access/outputs/aloha_simulation.png" width="300" alt="Plot"> |
+| [`cdma_simulation.py`](10_Multiplexing_and_Multiple_Access/cdma_simulation.py) | - |
+| [`fdm_simulation.py`](10_Multiplexing_and_Multiple_Access/fdm_simulation.py) | <img src="10_Multiplexing_and_Multiple_Access/outputs/fdm_simulation.png" width="300" alt="Plot"> |
+| [`ofdm_simulation.py`](10_Multiplexing_and_Multiple_Access/ofdm_simulation.py) | <img src="10_Multiplexing_and_Multiple_Access/outputs/ofdm_simulation.png" width="300" alt="Plot"> |
+| [`tdm_simulation.py`](10_Multiplexing_and_Multiple_Access/tdm_simulation.py) | <img src="10_Multiplexing_and_Multiple_Access/outputs/tdm_simulation.png" width="300" alt="Plot"> |
+| [`wdm_simulation.py`](10_Multiplexing_and_Multiple_Access/wdm_simulation.py) | <img src="10_Multiplexing_and_Multiple_Access/outputs/wdm_simulation.png" width="300" alt="Plot"> |
 
 ### 11. Transmitter and Receiver Design
 
 Folder path: [`11_Transmitter_and_Receiver_Design`](11_Transmitter_and_Receiver_Design)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`agc_automatic_gain_control.py`](11_Transmitter_and_Receiver_Design/agc_automatic_gain_control.py) | [Plot](11_Transmitter_and_Receiver_Design/outputs/agc_automatic_gain_control.png) | Automatic Gain Control (AGC) simulation. |
-| [`direct_conversion_receiver.py`](11_Transmitter_and_Receiver_Design/direct_conversion_receiver.py) | [Plot](11_Transmitter_and_Receiver_Design/outputs/direct_conversion_receiver.png) | Direct-conversion (zero-IF) receiver simulation. |
-| [`pll_phase_locked_loop.py`](11_Transmitter_and_Receiver_Design/pll_phase_locked_loop.py) | [Plot](11_Transmitter_and_Receiver_Design/outputs/pll_phase_locked_loop.png) | Phase-Locked Loop (PLL) simulation. |
-| [`superheterodyne_receiver.py`](11_Transmitter_and_Receiver_Design/superheterodyne_receiver.py) | [Plot](11_Transmitter_and_Receiver_Design/outputs/superheterodyne_receiver.png) | Simulation script. |
-| [`transmitter_architecture.py`](11_Transmitter_and_Receiver_Design/transmitter_architecture.py) | [Plot](11_Transmitter_and_Receiver_Design/outputs/transmitter_architecture.png) | Transmitter architecture simulation. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`agc_automatic_gain_control.py`](11_Transmitter_and_Receiver_Design/agc_automatic_gain_control.py) | <img src="11_Transmitter_and_Receiver_Design/outputs/agc_automatic_gain_control.png" width="300" alt="Plot"> |
+| [`direct_conversion_receiver.py`](11_Transmitter_and_Receiver_Design/direct_conversion_receiver.py) | <img src="11_Transmitter_and_Receiver_Design/outputs/direct_conversion_receiver.png" width="300" alt="Plot"> |
+| [`pll_phase_locked_loop.py`](11_Transmitter_and_Receiver_Design/pll_phase_locked_loop.py) | <img src="11_Transmitter_and_Receiver_Design/outputs/pll_phase_locked_loop.png" width="300" alt="Plot"> |
+| [`superheterodyne_receiver.py`](11_Transmitter_and_Receiver_Design/superheterodyne_receiver.py) | <img src="11_Transmitter_and_Receiver_Design/outputs/superheterodyne_receiver.png" width="300" alt="Plot"> |
+| [`transmitter_architecture.py`](11_Transmitter_and_Receiver_Design/transmitter_architecture.py) | <img src="11_Transmitter_and_Receiver_Design/outputs/transmitter_architecture.png" width="300" alt="Plot"> |
 
 ### 12. Spread Spectrum Communication
 
 Folder path: [`12_Spread_Spectrum_Communication`](12_Spread_Spectrum_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`dsss_direct_sequence.py`](12_Spread_Spectrum_Communication/dsss_direct_sequence.py) | [Plot](12_Spread_Spectrum_Communication/outputs/dsss_direct_sequence.png) | Direct Sequence Spread Spectrum (DSSS) simulation. |
-| [`fhss_frequency_hopping.py`](12_Spread_Spectrum_Communication/fhss_frequency_hopping.py) | [Plot](12_Spread_Spectrum_Communication/outputs/fhss_frequency_hopping.png) | Frequency-Hopping Spread Spectrum (FHSS) simulation. |
-| [`pn_sequence_generator.py`](12_Spread_Spectrum_Communication/pn_sequence_generator.py) | [Plot](12_Spread_Spectrum_Communication/outputs/pn_sequence_generator.png) | PN (Pseudo-Noise) sequence generator using LFSR. |
-| [`processing_gain.py`](12_Spread_Spectrum_Communication/processing_gain.py) | [Plot](12_Spread_Spectrum_Communication/outputs/processing_gain.png) | Processing gain and jamming margin in spread spectrum systems. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`dsss_direct_sequence.py`](12_Spread_Spectrum_Communication/dsss_direct_sequence.py) | <img src="12_Spread_Spectrum_Communication/outputs/dsss_direct_sequence.png" width="300" alt="Plot"> |
+| [`fhss_frequency_hopping.py`](12_Spread_Spectrum_Communication/fhss_frequency_hopping.py) | <img src="12_Spread_Spectrum_Communication/outputs/fhss_frequency_hopping.png" width="300" alt="Plot"> |
+| [`pn_sequence_generator.py`](12_Spread_Spectrum_Communication/pn_sequence_generator.py) | <img src="12_Spread_Spectrum_Communication/outputs/pn_sequence_generator.png" width="300" alt="Plot"> |
+| [`processing_gain.py`](12_Spread_Spectrum_Communication/processing_gain.py) | <img src="12_Spread_Spectrum_Communication/outputs/processing_gain.png" width="300" alt="Plot"> |
 
 ### 13. DSP for Communication
 
 Folder path: [`13_DSP_for_Communication`](13_DSP_for_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`correlation_receiver.py`](13_DSP_for_Communication/correlation_receiver.py) | [Plot](13_DSP_for_Communication/outputs/correlation_receiver.png) | Simulation script. |
-| [`digital_filters_fir_iir.py`](13_DSP_for_Communication/digital_filters_fir_iir.py) | [Plot](13_DSP_for_Communication/outputs/digital_filters_fir_iir.png) | Simulation script. |
-| [`equalization.py`](13_DSP_for_Communication/equalization.py) | [Plot](13_DSP_for_Communication/outputs/equalization.png) | Simulation script. |
-| [`matched_filter.py`](13_DSP_for_Communication/matched_filter.py) | [Plot](13_DSP_for_Communication/outputs/matched_filter.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`correlation_receiver.py`](13_DSP_for_Communication/correlation_receiver.py) | <img src="13_DSP_for_Communication/outputs/correlation_receiver.png" width="300" alt="Plot"> |
+| [`digital_filters_fir_iir.py`](13_DSP_for_Communication/digital_filters_fir_iir.py) | <img src="13_DSP_for_Communication/outputs/digital_filters_fir_iir.png" width="300" alt="Plot"> |
+| [`equalization.py`](13_DSP_for_Communication/equalization.py) | <img src="13_DSP_for_Communication/outputs/equalization.png" width="300" alt="Plot"> |
+| [`matched_filter.py`](13_DSP_for_Communication/matched_filter.py) | <img src="13_DSP_for_Communication/outputs/matched_filter.png" width="300" alt="Plot"> |
 
 ### 14. Antenna and Wave Propagation
 
 Folder path: [`14_Antenna_and_Wave_Propagation`](14_Antenna_and_Wave_Propagation)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`friis_transmission_equation.py`](14_Antenna_and_Wave_Propagation/friis_transmission_equation.py) | [Plot](14_Antenna_and_Wave_Propagation/outputs/friis_transmission_equation.png) | Simulation script. |
-| [`ground_wave_propagation.py`](14_Antenna_and_Wave_Propagation/ground_wave_propagation.py) | [Plot](14_Antenna_and_Wave_Propagation/outputs/ground_wave_propagation.png) | Simulation script. |
-| [`link_budget_calculator.py`](14_Antenna_and_Wave_Propagation/link_budget_calculator.py) | - | Simulation script. |
-| [`radiation_pattern.py`](14_Antenna_and_Wave_Propagation/radiation_pattern.py) | [Plot](14_Antenna_and_Wave_Propagation/outputs/radiation_pattern.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`friis_transmission_equation.py`](14_Antenna_and_Wave_Propagation/friis_transmission_equation.py) | <img src="14_Antenna_and_Wave_Propagation/outputs/friis_transmission_equation.png" width="300" alt="Plot"> |
+| [`ground_wave_propagation.py`](14_Antenna_and_Wave_Propagation/ground_wave_propagation.py) | <img src="14_Antenna_and_Wave_Propagation/outputs/ground_wave_propagation.png" width="300" alt="Plot"> |
+| [`link_budget_calculator.py`](14_Antenna_and_Wave_Propagation/link_budget_calculator.py) | - |
+| [`radiation_pattern.py`](14_Antenna_and_Wave_Propagation/radiation_pattern.py) | <img src="14_Antenna_and_Wave_Propagation/outputs/radiation_pattern.png" width="300" alt="Plot"> |
 
 ### 15. Optical Communication
 
 Folder path: [`15_Optical_Communication`](15_Optical_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`ber_optical_link.py`](15_Optical_Communication/ber_optical_link.py) | [Plot](15_Optical_Communication/outputs/ber_optical_link.png) | Simulation script. |
-| [`dispersion_analysis.py`](15_Optical_Communication/dispersion_analysis.py) | [Plot](15_Optical_Communication/outputs/dispersion_analysis.png) | Optical Fiber Dispersion Analysis. |
-| [`fiber_attenuation.py`](15_Optical_Communication/fiber_attenuation.py) | [Plot](15_Optical_Communication/outputs/fiber_attenuation.png) | Simulation script. |
-| [`numerical_aperture.py`](15_Optical_Communication/numerical_aperture.py) | - | Simulation script. |
-| [`optical_link_budget.py`](15_Optical_Communication/optical_link_budget.py) | [Plot](15_Optical_Communication/outputs/optical_link_budget.png) | Optical Link Power Budget Design. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`ber_optical_link.py`](15_Optical_Communication/ber_optical_link.py) | <img src="15_Optical_Communication/outputs/ber_optical_link.png" width="300" alt="Plot"> |
+| [`dispersion_analysis.py`](15_Optical_Communication/dispersion_analysis.py) | <img src="15_Optical_Communication/outputs/dispersion_analysis.png" width="300" alt="Plot"> |
+| [`fiber_attenuation.py`](15_Optical_Communication/fiber_attenuation.py) | <img src="15_Optical_Communication/outputs/fiber_attenuation.png" width="300" alt="Plot"> |
+| [`numerical_aperture.py`](15_Optical_Communication/numerical_aperture.py) | - |
+| [`optical_link_budget.py`](15_Optical_Communication/optical_link_budget.py) | <img src="15_Optical_Communication/outputs/optical_link_budget.png" width="300" alt="Plot"> |
 
 ### 16. Satellite Communication
 
 Folder path: [`16_Satellite_Communication`](16_Satellite_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`doppler_shift_satellite.py`](16_Satellite_Communication/doppler_shift_satellite.py) | [Plot](16_Satellite_Communication/outputs/doppler_shift_satellite.png) | Simulation script. |
-| [`link_budget_satellite.py`](16_Satellite_Communication/link_budget_satellite.py) | - | Simulation script. |
-| [`orbital_parameters.py`](16_Satellite_Communication/orbital_parameters.py) | - | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`doppler_shift_satellite.py`](16_Satellite_Communication/doppler_shift_satellite.py) | <img src="16_Satellite_Communication/outputs/doppler_shift_satellite.png" width="300" alt="Plot"> |
+| [`link_budget_satellite.py`](16_Satellite_Communication/link_budget_satellite.py) | - |
+| [`orbital_parameters.py`](16_Satellite_Communication/orbital_parameters.py) | - |
 
 ### 17. Wireless and Mobile Communication
 
 Folder path: [`17_Wireless_and_Mobile_Communication`](17_Wireless_and_Mobile_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`cellular_frequency_reuse.py`](17_Wireless_and_Mobile_Communication/cellular_frequency_reuse.py) | [Plot](17_Wireless_and_Mobile_Communication/outputs/cellular_frequency_reuse.png) | Simulation script. |
-| [`diversity_techniques.py`](17_Wireless_and_Mobile_Communication/diversity_techniques.py) | [Plot](17_Wireless_and_Mobile_Communication/outputs/diversity_techniques.png) | Wireless Receiver Diversity Combining Techniques. |
-| [`handoff_simulation.py`](17_Wireless_and_Mobile_Communication/handoff_simulation.py) | [Plot](17_Wireless_and_Mobile_Communication/outputs/handoff_simulation.png) | Simulation script. |
-| [`mimo_simulation.py`](17_Wireless_and_Mobile_Communication/mimo_simulation.py) | - | Simulation script. |
-| [`ofdm_wireless.py`](17_Wireless_and_Mobile_Communication/ofdm_wireless.py) | [Plot](17_Wireless_and_Mobile_Communication/outputs/ofdm_wireless.png) | OFDM Wireless Transmission with Cyclic Prefix. |
-| [`path_loss_models.py`](17_Wireless_and_Mobile_Communication/path_loss_models.py) | [Plot](17_Wireless_and_Mobile_Communication/outputs/path_loss_models.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`cellular_frequency_reuse.py`](17_Wireless_and_Mobile_Communication/cellular_frequency_reuse.py) | <img src="17_Wireless_and_Mobile_Communication/outputs/cellular_frequency_reuse.png" width="300" alt="Plot"> |
+| [`diversity_techniques.py`](17_Wireless_and_Mobile_Communication/diversity_techniques.py) | <img src="17_Wireless_and_Mobile_Communication/outputs/diversity_techniques.png" width="300" alt="Plot"> |
+| [`handoff_simulation.py`](17_Wireless_and_Mobile_Communication/handoff_simulation.py) | <img src="17_Wireless_and_Mobile_Communication/outputs/handoff_simulation.png" width="300" alt="Plot"> |
+| [`mimo_simulation.py`](17_Wireless_and_Mobile_Communication/mimo_simulation.py) | - |
+| [`ofdm_wireless.py`](17_Wireless_and_Mobile_Communication/ofdm_wireless.py) | <img src="17_Wireless_and_Mobile_Communication/outputs/ofdm_wireless.png" width="300" alt="Plot"> |
+| [`path_loss_models.py`](17_Wireless_and_Mobile_Communication/path_loss_models.py) | <img src="17_Wireless_and_Mobile_Communication/outputs/path_loss_models.png" width="300" alt="Plot"> |
 
 ### 18. Network Protocols and Data Link
 
 Folder path: [`18_Network_Protocols_and_Data_Link`](18_Network_Protocols_and_Data_Link)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`arq_protocols.py`](18_Network_Protocols_and_Data_Link/arq_protocols.py) | [Plot](18_Network_Protocols_and_Data_Link/outputs/arq_protocols.png) | ARQ (Automatic Repeat reQuest) protocol simulation. |
-| [`error_detection_protocols.py`](18_Network_Protocols_and_Data_Link/error_detection_protocols.py) | [Plot](18_Network_Protocols_and_Data_Link/outputs/error_detection_protocols.png) | Error detection at the data-link layer. |
-| [`flow_control.py`](18_Network_Protocols_and_Data_Link/flow_control.py) | [Plot](18_Network_Protocols_and_Data_Link/outputs/flow_control.png) | Sliding window flow control simulation. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`arq_protocols.py`](18_Network_Protocols_and_Data_Link/arq_protocols.py) | <img src="18_Network_Protocols_and_Data_Link/outputs/arq_protocols.png" width="300" alt="Plot"> |
+| [`error_detection_protocols.py`](18_Network_Protocols_and_Data_Link/error_detection_protocols.py) | <img src="18_Network_Protocols_and_Data_Link/outputs/error_detection_protocols.png" width="300" alt="Plot"> |
+| [`flow_control.py`](18_Network_Protocols_and_Data_Link/flow_control.py) | <img src="18_Network_Protocols_and_Data_Link/outputs/flow_control.png" width="300" alt="Plot"> |
 
 ### 19. Radar Communication
 
 Folder path: [`19_Radar_Communication`](19_Radar_Communication)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`doppler_radar.py`](19_Radar_Communication/doppler_radar.py) | [Plot](19_Radar_Communication/outputs/doppler_radar.png) | Doppler radar simulation for moving-target velocity estimation. |
-| [`pulse_compression.py`](19_Radar_Communication/pulse_compression.py) | [Plot](19_Radar_Communication/outputs/pulse_compression.png) | Linear FM (chirp) pulse compression simulation. |
-| [`radar_range_equation.py`](19_Radar_Communication/radar_range_equation.py) | [Plot](19_Radar_Communication/outputs/radar_range_equation.png) | Radar range equation calculation and detection analysis. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`doppler_radar.py`](19_Radar_Communication/doppler_radar.py) | <img src="19_Radar_Communication/outputs/doppler_radar.png" width="300" alt="Plot"> |
+| [`pulse_compression.py`](19_Radar_Communication/pulse_compression.py) | <img src="19_Radar_Communication/outputs/pulse_compression.png" width="300" alt="Plot"> |
+| [`radar_range_equation.py`](19_Radar_Communication/radar_range_equation.py) | <img src="19_Radar_Communication/outputs/radar_range_equation.png" width="300" alt="Plot"> |
 
 ### 20. Emerging Technologies
 
 Folder path: [`20_Emerging_Technologies`](20_Emerging_Technologies)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`5g_nr_basics.py`](20_Emerging_Technologies/5g_nr_basics.py) | [Plot](20_Emerging_Technologies/outputs/5g_nr_basics.png) | 5G NR (New Radio) Numerology and Slot Structure. |
-| [`cognitive_radio.py`](20_Emerging_Technologies/cognitive_radio.py) | [Plot](20_Emerging_Technologies/outputs/cognitive_radio.png) | Cognitive Radio Spectrum Sensing Simulation. |
-| [`massive_mimo.py`](20_Emerging_Technologies/massive_mimo.py) | [Plot](20_Emerging_Technologies/outputs/massive_mimo.png) | Massive MIMO Beamforming and Precoding Simulation. |
-| [`mmwave_propagation.py`](20_Emerging_Technologies/mmwave_propagation.py) | [Plot](20_Emerging_Technologies/outputs/mmwave_propagation.png) | Millimeter Wave (mmWave) Propagation Characteristics. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`5g_nr_basics.py`](20_Emerging_Technologies/5g_nr_basics.py) | <img src="20_Emerging_Technologies/outputs/5g_nr_basics.png" width="300" alt="Plot"> |
+| [`cognitive_radio.py`](20_Emerging_Technologies/cognitive_radio.py) | <img src="20_Emerging_Technologies/outputs/cognitive_radio.png" width="300" alt="Plot"> |
+| [`massive_mimo.py`](20_Emerging_Technologies/massive_mimo.py) | <img src="20_Emerging_Technologies/outputs/massive_mimo.png" width="300" alt="Plot"> |
+| [`mmwave_propagation.py`](20_Emerging_Technologies/mmwave_propagation.py) | <img src="20_Emerging_Technologies/outputs/mmwave_propagation.png" width="300" alt="Plot"> |
 
 ### 21. Mini Projects
 
 Folder path: [`21_Mini_Projects`](21_Mini_Projects)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`chat_application_socket.py`](21_Mini_Projects/chat_application_socket.py) | - | Simulation script. |
-| [`digital_filter_designer.py`](21_Mini_Projects/digital_filter_designer.py) | [Plot](21_Mini_Projects/outputs/digital_filter_designer.png) | Simulation script. |
-| [`dtmf_dialpad_simulator.py`](21_Mini_Projects/dtmf_dialpad_simulator.py) | [Plot](21_Mini_Projects/outputs/dtmf_dialpad_simulator.png) | Simulation script. |
-| [`software_defined_radio_basics.py`](21_Mini_Projects/software_defined_radio_basics.py) | [Plot](21_Mini_Projects/outputs/software_defined_radio_basics.png) | Simulation script. |
-| [`spectrum_analyzer_gui.py`](21_Mini_Projects/spectrum_analyzer_gui.py) | [Plot](21_Mini_Projects/outputs/spectrum_analyzer_gui.png) | Simulation script. |
-| [`speech_signal_compression.py`](21_Mini_Projects/speech_signal_compression.py) | [Plot](21_Mini_Projects/outputs/speech_signal_compression.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`chat_application_socket.py`](21_Mini_Projects/chat_application_socket.py) | - |
+| [`digital_filter_designer.py`](21_Mini_Projects/digital_filter_designer.py) | <img src="21_Mini_Projects/outputs/digital_filter_designer.png" width="300" alt="Plot"> |
+| [`dtmf_dialpad_simulator.py`](21_Mini_Projects/dtmf_dialpad_simulator.py) | <img src="21_Mini_Projects/outputs/dtmf_dialpad_simulator.png" width="300" alt="Plot"> |
+| [`software_defined_radio_basics.py`](21_Mini_Projects/software_defined_radio_basics.py) | <img src="21_Mini_Projects/outputs/software_defined_radio_basics.png" width="300" alt="Plot"> |
+| [`spectrum_analyzer_gui.py`](21_Mini_Projects/spectrum_analyzer_gui.py) | <img src="21_Mini_Projects/outputs/spectrum_analyzer_gui.png" width="300" alt="Plot"> |
+| [`speech_signal_compression.py`](21_Mini_Projects/speech_signal_compression.py) | <img src="21_Mini_Projects/outputs/speech_signal_compression.png" width="300" alt="Plot"> |
 
 ### 22. Advanced Modulation Visualizations
 
 Folder path: [`22_Advanced_Modulation_Visualizations`](22_Advanced_Modulation_Visualizations)
 
-| Simulation Script | Output Plot(s) | Description |
-| :--- | :--- | :--- |
-| [`qam16_noise_dashboard.py`](22_Advanced_Modulation_Visualizations/qam16_noise_dashboard.py) | [Plot](22_Advanced_Modulation_Visualizations/outputs/qam16_noise_dashboard.png) | Simulation script. |
-| [`qam_order_comparison.py`](22_Advanced_Modulation_Visualizations/qam_order_comparison.py) | [Plot](22_Advanced_Modulation_Visualizations/outputs/qam_order_comparison.png) | Simulation script. |
-| [`qpsk_ber_constellation_dashboard.py`](22_Advanced_Modulation_Visualizations/qpsk_ber_constellation_dashboard.py) | [Plot](22_Advanced_Modulation_Visualizations/outputs/qpsk_ber_constellation_dashboard.png) | Simulation script. |
+| Simulation Script | Output Plot(s) |
+| :--- | :--- |
+| [`qam16_noise_dashboard.py`](22_Advanced_Modulation_Visualizations/qam16_noise_dashboard.py) | <img src="22_Advanced_Modulation_Visualizations/outputs/qam16_noise_dashboard.png" width="300" alt="Plot"> |
+| [`qam_order_comparison.py`](22_Advanced_Modulation_Visualizations/qam_order_comparison.py) | <img src="22_Advanced_Modulation_Visualizations/outputs/qam_order_comparison.png" width="300" alt="Plot"> |
+| [`qpsk_ber_constellation_dashboard.py`](22_Advanced_Modulation_Visualizations/qpsk_ber_constellation_dashboard.py) | <img src="22_Advanced_Modulation_Visualizations/outputs/qpsk_ber_constellation_dashboard.png" width="300" alt="Plot"> |
 
 
 ## How to Run
