@@ -1,24 +1,47 @@
-# ECE Communication Engineering Simulations
+<div align="center">
 
-![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Educational](https://img.shields.io/badge/Purpose-Educational-orange.svg)
-
-A comprehensive, curriculum-aligned collection of Python-based simulations for core topics in Electronics and Communication Engineering (ECE). Designed for academic learning, lab assignments, and concept visualization.
-
-## Tech Stack & Dependencies
-
-- Python 3.x
-- NumPy
-- SciPy
-- Matplotlib
-
-Install the required packages using:
-```bash
-pip install -r requirements.txt
-```
+<a href="https://github.com/mohd-faizy/PyComms-Lab">
+  <img src="assets/head.png" alt="PyComms-Lab Banner" width="900" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+</a>
 
 ---
 
-## Folder Guide (Systematic Curriculum Order)
+<h1>📡 PyComms-Lab</h1>
+
+<p align="center">
+  <strong>A comprehensive, curriculum-aligned collection of Python-based simulations for core topics in Electronics and Communication Engineering (ECE). Designed for academic learning, lab assignments, and concept visualization.</strong>
+</p>
+
+<!-- Tech Stack & Platforms -->
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Platform-Jupyter%20Labs-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Platform"></a>
+</p>
+
+<!-- Repository Metrics -->
+<p align="center">
+  <a href="https://github.com/mohd-faizy/PyComms-Lab/stargazers"><img src="https://img.shields.io/github/stars/mohd-faizy/PyComms-Lab?style=for-the-badge&logo=github&logoColor=white&color=ffd700" alt="Stars"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/PyComms-Lab?style=for-the-badge&logo=github&logoColor=white&color=ef4444" alt="GitHub Issues"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/PyComms-Lab?style=for-the-badge&logo=git&logoColor=white&color=8b5cf6" alt="Last Commit"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab"><img src="https://img.shields.io/github/repo-size/mohd-faizy/PyComms-Lab?style=for-the-badge&logo=github&logoColor=white&color=6b7280" alt="Repo Size"></a>
+</p>
+
+<!-- Meta & Community -->
+<p align="center">
+  <a href="https://github.com/mohd-faizy"><img src="https://img.shields.io/badge/Author-mohd--faizy-red?style=for-the-badge&logo=github&logoColor=white" alt="Author"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab"><img src="https://img.shields.io/maintenance/yes/2026?style=for-the-badge&color=28a745" alt="Maintained"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mohd-faizy/PyComms-Lab?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=24292e" alt="License"></a>
+  <a href="https://github.com/mohd-faizy/PyComms-Lab/pulls"><img src="https://img.shields.io/badge/Contributions-Welcome-0059b3?style=for-the-badge&logo=handshake&logoColor=white" alt="Contributions Welcome"></a>
+</p>
+
+</div>
+
+---
+
+## Curriculum
 
 This repository is structured sequentially to follow a standard Communication Engineering syllabus, from foundational probability and signals to digital transmission, wireless channels, network protocols, and emerging 5G/Radar technologies.
 
@@ -344,6 +367,21 @@ Most scripts display an interactive Matplotlib plot and print quantitative perfo
 - **Turbo Codes (`07_Error_Control_Coding/turbo_code_basics.py`)**: Simulates a parallel concatenated systematic convolutional code with iterative soft-decision feedback decoding, showing how BER improves iteration by iteration.
 - **OFDM Wireless System (`17_Wireless_and_Mobile_Communication/ofdm_wireless.py`)**: Contains a full transceiver chain: IFFT modulation, Cyclic Prefix (CP) insertion, multipath channel convolution, FFT demodulation, and 1-tap frequency domain equalization (FEQ).
 
-## License
+---
 
-MIT
+## ⚖️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+---
+
+## 🔗 Connect with me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/F4izy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faizy/)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohd-faizy)
+
+</div>
