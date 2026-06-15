@@ -1,3 +1,6 @@
+
+<h1>📡 PyComms</h1>
+
 <div align="center">
 
 <a href="https://github.com/mohd-faizy/PyComms-Lab">
@@ -6,7 +9,6 @@
 
 ---
 
-<h1>📡 PyComms-Lab</h1>
 
 <p align="center">
   <strong>A comprehensive, curriculum-aligned collection of Python-based simulations for core topics in Electronics and Communication Engineering (ECE). Designed for academic learning, lab assignments, and concept visualization.</strong>
