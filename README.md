@@ -20,7 +20,6 @@
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
   <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Platform-Jupyter%20Labs-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Platform"></a>
 </p>
 
 <!-- Repository Metrics -->
