@@ -1,0 +1,17 @@
+================================================================================
+Simulation Output Log
+Script: 06_Information_Theory_and_Coding/rate_distortion.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Rate-Distortion Theory Insights ===
+1. For distortion D >= rho^2 (for Gaussian) or D >= 0.5 (for Binary), the required rate R(D) is 0.
+   This means we can achieve that level of distortion by transmitting nothing (just guessing the mean).
+2. As distortion D approaches 0 (lossless transmission), the required rate goes to infinity for continuous
+   sources (Gaussian) and approaches the source entropy (H(X)=1 bit) for the binary source.
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\06_Information_Theory_and_Coding\outputs\rate_distortion.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

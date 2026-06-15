@@ -1,0 +1,13 @@
+================================================================================
+Simulation Output Log
+Script: 07_Error_Control_Coding/hamming_code.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Data:      [1 0 1 1]
+Codeword:  [0 1 1 0 0 1 1]
+Received:  [0 1 1 0 1 1 1]
+Error at position: 5
+Corrected: [0 1 1 0 0 1 1]
+Decoded:   [1 0 1 1]

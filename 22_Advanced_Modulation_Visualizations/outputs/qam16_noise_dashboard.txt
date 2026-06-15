@@ -1,0 +1,22 @@
+================================================================================
+Simulation Output Log
+Script: 22_Advanced_Modulation_Visualizations/qam16_noise_dashboard.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+--- 16-QAM noise robustness ---
+noise_factor=0.0 similarity=1.00 recovered='ECE Communication Engineering 16-QA'
+noise_factor=0.1 similarity=1.00 recovered='ECE Communication Engineering 16-QA'
+noise_factor=0.3 similarity=0.93 recovered="ECE Comm\ufffdjication Engineerin' 16-QA"
+noise_factor=0.5 similarity=0.54 recovered='\ufffd\x13\ufffd Cimm\ufffd+ibathon$En"inalr)n\'p16=QA'
+noise_factor=0.8 similarity=0.30 recovered='\ufffd\x13\ufffd0Ci-m\ufffd+i"at(/k$Ek"i\ufffd#l"/n\'p1V}QA'
+noise_factor=1.0 similarity=0.15 recovered='\ufffd\x13\ufffdqCi-g\ufffd)i"!$(/k$E+"i\ufffd#l"/n\'p0V}QA'
+noise_factor=1.5 similarity=0.13 recovered='\ufffd3\ufffdq\x13h-g\ufffd)i"!$(/k,E+"i\ufffd#h"/.-\ufffd4V]\x11A'
+noise_factor=2.0 similarity=0.09 recovered='\ufffd#\ufffdq\x13\ufffd-g\ufffd(i"!$(/k,E)")\ufffd"h"&.-\ufffdT\ufffd\ufffd3@'
+Saved dashboard to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\22_Advanced_Modulation_Visualizations\outputs\qam16_noise_dashboard.png
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\22_Advanced_Modulation_Visualizations\outputs\qam16_noise_dashboard.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

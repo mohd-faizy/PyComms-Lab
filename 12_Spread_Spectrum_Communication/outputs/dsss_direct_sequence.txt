@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 12_Spread_Spectrum_Communication/dsss_direct_sequence.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Chips/bit (processing gain): 16
+Channel SNR: -5 dB
+Effective SNR after despreading: ~7.0 dB
+BER: 0.0000
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\12_Spread_Spectrum_Communication\outputs\dsss_direct_sequence.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

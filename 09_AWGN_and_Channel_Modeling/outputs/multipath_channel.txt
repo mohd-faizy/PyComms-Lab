@@ -1,0 +1,15 @@
+================================================================================
+Simulation Output Log
+Script: 09_AWGN_and_Channel_Modeling/multipath_channel.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Channel Multipath Parameters ===
+Rms Delay Spread:          234.02 ns
+Approx Coherence Bandwidth: 4.27 MHz
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\09_AWGN_and_Channel_Modeling\outputs\multipath_channel.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

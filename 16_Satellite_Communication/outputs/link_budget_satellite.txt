@@ -1,0 +1,11 @@
+================================================================================
+Simulation Output Log
+Script: 16_Satellite_Communication/link_budget_satellite.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Free-space path loss: 205.63 dB
+Received carrier power: -126.63 dBW
+Noise power: -130.48 dBW
+C/N: 3.85 dB

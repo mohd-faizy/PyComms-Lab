@@ -1,0 +1,13 @@
+================================================================================
+Simulation Output Log
+Script: 21_Mini_Projects/digital_filter_designer.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Designing 4th order lowpass filter with 5000Hz cutoff (fs=44100Hz)
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\21_Mini_Projects\outputs\digital_filter_designer.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

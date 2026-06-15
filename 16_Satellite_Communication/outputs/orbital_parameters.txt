@@ -1,0 +1,19 @@
+================================================================================
+Simulation Output Log
+Script: 16_Satellite_Communication/orbital_parameters.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+LEO:
+  Altitude: 500 km
+  Period: 94.47 minutes
+  Orbital velocity: 7.62 km/s
+MEO:
+  Altitude: 20,200 km
+  Period: 718.41 minutes
+  Orbital velocity: 3.87 km/s
+GEO:
+  Altitude: 35,786 km
+  Period: 1435.70 minutes
+  Orbital velocity: 3.07 km/s

@@ -1,0 +1,11 @@
+================================================================================
+Simulation Output Log
+Script: 10_Multiplexing_and_Multiple_Access/cdma_simulation.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+User 1 bits:       [1 0 1 1]
+Recovered user 1:  [1 0 1 1]
+User 2 bits:       [0 1 1 0]
+Recovered user 2:  [0 1 1 0]

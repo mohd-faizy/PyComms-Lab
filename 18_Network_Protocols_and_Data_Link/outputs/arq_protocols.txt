@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 18_Network_Protocols_and_Data_Link/arq_protocols.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Throughput at 10% FER ===
+  Stop-and-Wait                 : 0.901
+  Go-Back-N (W=8)               : 0.644
+  Selective Repeat (W=8)        : 0.901
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\18_Network_Protocols_and_Data_Link\outputs\arq_protocols.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

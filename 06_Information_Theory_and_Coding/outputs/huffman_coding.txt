@@ -1,0 +1,14 @@
+================================================================================
+Simulation Output Log
+Script: 06_Information_Theory_and_Coding/huffman_coding.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Huffman codes:
+A: 11
+B: 00
+C: 01
+D: 100
+E: 101
+Average length = 2.200 bits/symbol

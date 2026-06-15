@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 11_Transmitter_and_Receiver_Design/pll_phase_locked_loop.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Input frequency    : 200 Hz
+VCO free-run freq  : 180 Hz
+Final VCO frequency: -166.74 Hz
+Lock achieved      : No
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\11_Transmitter_and_Receiver_Design\outputs\pll_phase_locked_loop.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

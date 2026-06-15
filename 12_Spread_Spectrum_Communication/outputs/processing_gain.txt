@@ -1,0 +1,24 @@
+================================================================================
+Simulation Output Log
+Script: 12_Spread_Spectrum_Communication/processing_gain.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Processing Gain & Jamming Margin ===
+    SF |  Gp (dB) |  Jm (dB)
+------------------------------
+     4 |      6.0 |     -6.0
+     8 |      9.0 |     -3.0
+    16 |     12.0 |      0.0
+    32 |     15.1 |      3.1
+    64 |     18.1 |      6.1
+   128 |     21.1 |      9.1
+   256 |     24.1 |     12.1
+   512 |     27.1 |     15.1
+  1024 |     30.1 |     18.1
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\12_Spread_Spectrum_Communication\outputs\processing_gain.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

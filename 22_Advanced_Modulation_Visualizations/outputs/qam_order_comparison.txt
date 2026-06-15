@@ -1,0 +1,15 @@
+================================================================================
+Simulation Output Log
+Script: 22_Advanced_Modulation_Visualizations/qam_order_comparison.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+4-QAM: average energy=1.00, minimum distance=1.414
+16-QAM: average energy=1.00, minimum distance=0.632
+64-QAM: average energy=1.00, minimum distance=0.309
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\22_Advanced_Modulation_Visualizations\outputs\qam_order_comparison.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

@@ -1,0 +1,10 @@
+================================================================================
+Simulation Output Log
+Script: 14_Antenna_and_Wave_Propagation/link_budget_calculator.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Free-space path loss: 114.02 dB
+Received power: -65.02 dBm
+Link margin above -100 dBm noise floor: 34.98 dB

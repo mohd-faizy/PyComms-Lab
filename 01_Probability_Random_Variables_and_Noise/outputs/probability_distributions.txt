@@ -1,0 +1,19 @@
+================================================================================
+Simulation Output Log
+Script: 01_Probability_Random_Variables_and_Noise/probability_distributions.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+============================================================
+Distribution                  Mean      Var     Skew     Kurt
+------------------------------------------------------------
+Uniform(0,4)                2.0000   1.3333   0.0000  -1.2000
+Exponential(lambda=1)       1.0000   1.0000   2.0000   6.0000
+Rayleigh(rho=1)             1.2533   0.4292   0.6311   0.2451
+Rician(nu=2, rho=1)         2.2724   0.8363   0.2097  -0.1850
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\01_Probability_Random_Variables_and_Noise\outputs\probability_distributions.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

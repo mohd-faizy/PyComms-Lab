@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 01_Probability_Random_Variables_and_Noise/gaussian_pdf_cdf.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Standard Normal Distribution (mu=0, rho=1) ===
+  P(-1rho < X < 1rho) = 0.682689  (68.27%)
+  P(-2rho < X < 2rho) = 0.954500  (95.45%)
+  P(-3rho < X < 3rho) = 0.997300  (99.73%)
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\01_Probability_Random_Variables_and_Noise\outputs\gaussian_pdf_cdf.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

@@ -1,0 +1,11 @@
+================================================================================
+Simulation Output Log
+Script: 07_Error_Control_Coding/linear_block_codes.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Message:   [1 0 1 1]
+Codeword:  [1 0 1 1 0 1 0]
+Received:  [1 0 0 1 0 1 0]
+Syndrome:  [0 1 1]

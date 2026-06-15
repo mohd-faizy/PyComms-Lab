@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 12_Spread_Spectrum_Communication/fhss_frequency_hopping.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Number of frequency slots: 8
+Hop duration: 2 ms
+Bandwidth: 5000 - 26000 Hz
+Hopping pattern (first 10): [7, 6, 5, 6, 1, 1, 6, 1, 4, 3]
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\12_Spread_Spectrum_Communication\outputs\fhss_frequency_hopping.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

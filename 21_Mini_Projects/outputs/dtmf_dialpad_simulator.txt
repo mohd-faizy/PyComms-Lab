@@ -1,0 +1,13 @@
+================================================================================
+Simulation Output Log
+Script: 21_Mini_Projects/dtmf_dialpad_simulator.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Generating DTMF for key '5'...
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\21_Mini_Projects\outputs\dtmf_dialpad_simulator.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

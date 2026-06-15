@@ -1,0 +1,14 @@
+================================================================================
+Simulation Output Log
+Script: 18_Network_Protocols_and_Data_Link/error_detection_protocols.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+CRC provides the strongest error detection among the three methods.
+Parity check can only detect odd numbers of bit errors.
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\18_Network_Protocols_and_Data_Link\outputs\error_detection_protocols.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

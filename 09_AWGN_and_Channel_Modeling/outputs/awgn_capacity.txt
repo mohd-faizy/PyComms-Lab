@@ -1,0 +1,22 @@
+================================================================================
+Simulation Output Log
+Script: 09_AWGN_and_Channel_Modeling/awgn_capacity.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Shannon Channel Capacity Limits ===
+Ultimate Shannon Limit for Eb/N0: -1.59 dB (at spectral efficiency R -> 0)
+-----------------------------------------------------------------
+Spectral Efficiency R (bps/Hz) | Required Eb/N0 (dB) 
+-----------------------------------------------------------------
+0.5                            | -0.82                dB
+1.0                            | 0.00                 dB
+2.0                            | 1.76                 dB
+4.0                            | 5.74                 dB
+6.0                            | 10.21                dB
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\09_AWGN_and_Channel_Modeling\outputs\awgn_capacity.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

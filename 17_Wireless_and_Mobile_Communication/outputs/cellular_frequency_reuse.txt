@@ -1,0 +1,10 @@
+================================================================================
+Simulation Output Log
+Script: 17_Wireless_and_Mobile_Communication/cellular_frequency_reuse.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\17_Wireless_and_Mobile_Communication\outputs\cellular_frequency_reuse.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

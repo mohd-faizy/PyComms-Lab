@@ -1,0 +1,15 @@
+================================================================================
+Simulation Output Log
+Script: 13_DSP_for_Communication/correlation_receiver.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Correlation with basis 0: -1.42
+Correlation with basis 1: 39.61
+Detected bit: 1
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\13_DSP_for_Communication\outputs\correlation_receiver.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

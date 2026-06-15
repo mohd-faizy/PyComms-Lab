@@ -1,0 +1,10 @@
+================================================================================
+Simulation Output Log
+Script: 14_Antenna_and_Wave_Propagation/radiation_pattern.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\14_Antenna_and_Wave_Propagation\outputs\radiation_pattern.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

@@ -1,0 +1,20 @@
+================================================================================
+Simulation Output Log
+Script: 05_Pulse_Modulation/pcm_encoding_decoding.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+sample 00:  0.000 -> level 4 -> bits 100
+sample 01:  0.529 -> level 5 -> bits 101
+sample 02:  0.856 -> level 6 -> bits 110
+sample 03:  0.856 -> level 6 -> bits 110
+sample 04:  0.529 -> level 5 -> bits 101
+sample 05:  0.000 -> level 4 -> bits 100
+sample 06: -0.529 -> level 2 -> bits 010
+sample 07: -0.856 -> level 1 -> bits 001
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\05_Pulse_Modulation\outputs\pcm_encoding_decoding.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

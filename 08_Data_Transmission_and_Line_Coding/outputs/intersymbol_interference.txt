@@ -1,0 +1,15 @@
+================================================================================
+Simulation Output Log
+Script: 08_Data_Transmission_and_Line_Coding/intersymbol_interference.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+At optimal sampling instants (red dots), the Nyquist criterion
+guarantees zero ISI from neighbouring symbols.
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot 1 to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\08_Data_Transmission_and_Line_Coding\outputs\intersymbol_interference_fig1.png
+[RUNNER] Saved plot 2 to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\08_Data_Transmission_and_Line_Coding\outputs\intersymbol_interference_fig2.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

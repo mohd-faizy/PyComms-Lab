@@ -1,0 +1,12 @@
+================================================================================
+Simulation Output Log
+Script: 07_Error_Control_Coding/viterbi_decoder.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Input bits:     1011010
+Encoded bits:   11100001010010
+Received bits:  11110001011010
+Decoded bits:   1011010
+Path metric: 2

@@ -1,0 +1,10 @@
+================================================================================
+Simulation Output Log
+Script: 04_Digital_Modulation/qam_modulation.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\04_Digital_Modulation\outputs\qam_modulation.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

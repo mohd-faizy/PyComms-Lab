@@ -1,0 +1,19 @@
+================================================================================
+Simulation Output Log
+Script: 19_Radar_Communication/pulse_compression.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Chirp bandwidth: 200 kHz
+Pulse width: 50 us
+Compression ratio: 10
+Range resolution (chirp): 750.0 m
+Range resolution (CW):    7500 m
+
+--- Standard Error / Warnings ---
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\19_Radar_Communication\pulse_compression.py:60: UserWarning: Only one segment is calculated since parameter NFFT (=64) >= signal length (=51).
+  axes[0, 1].specgram(chirp_signal, NFFT=64, Fs=fs, noverlap=60,
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\19_Radar_Communication\outputs\pulse_compression.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

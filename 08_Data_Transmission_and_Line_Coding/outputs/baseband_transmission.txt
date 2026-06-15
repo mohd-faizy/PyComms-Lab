@@ -1,0 +1,29 @@
+================================================================================
+Simulation Output Log
+Script: 08_Data_Transmission_and_Line_Coding/baseband_transmission.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== BER Results ===
+  SNR =  0 dB -> BER = 6.10e-03
+  SNR =  1 dB -> BER = 2.96e-03
+  SNR =  2 dB -> BER = 1.12e-03
+  SNR =  3 dB -> BER = 4.20e-04
+  SNR =  4 dB -> BER = 6.00e-05
+  SNR =  5 dB -> BER = 1.60e-04
+  SNR =  6 dB -> BER = 2.00e-05
+  SNR =  7 dB -> BER = 1.00e-06
+  SNR =  8 dB -> BER = 1.00e-06
+  SNR =  9 dB -> BER = 1.00e-06
+  SNR = 10 dB -> BER = 1.00e-06
+  SNR = 11 dB -> BER = 1.00e-06
+  SNR = 12 dB -> BER = 1.00e-06
+  SNR = 13 dB -> BER = 1.00e-06
+  SNR = 14 dB -> BER = 1.00e-06
+  SNR = 15 dB -> BER = 1.00e-06
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\08_Data_Transmission_and_Line_Coding\outputs\baseband_transmission.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

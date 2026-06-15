@@ -1,0 +1,16 @@
+================================================================================
+Simulation Output Log
+Script: 19_Radar_Communication/doppler_radar.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== Detected Targets ===
+  Car (30 m/s)              | v =    +30 m/s | fd = +2000.0 Hz
+  Aircraft (250 m/s)        | v =   +250 m/s | fd = +16666.7 Hz
+  Approaching (-15 m/s)     | v =    -15 m/s | fd = -1000.0 Hz
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\19_Radar_Communication\outputs\doppler_radar.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

@@ -1,0 +1,19 @@
+================================================================================
+Simulation Output Log
+Script: 10_Multiplexing_and_Multiple_Access/aloha_simulation.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+=== ALOHA Simulation Results Summary ===
+Offered Load G  | Pure ALOHA (Sim)     | Slotted ALOHA (Sim) 
+-----------------------------------------------------------------
+0.09            | 0.0760               | 0.0818              
+0.54            | 0.1829               | 0.3186              
+0.97            | 0.1385               | 0.3633              
+2.10            | 0.0313               | 0.2536
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\10_Multiplexing_and_Multiple_Access\outputs\aloha_simulation.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)

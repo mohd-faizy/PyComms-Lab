@@ -1,0 +1,13 @@
+================================================================================
+Simulation Output Log
+Script: 09_AWGN_and_Channel_Modeling/awgn_channel.py
+Status: SUCCESS
+================================================================================
+
+--- Standard Output ---
+Measured SNR: 10.03 dB
+
+--- Standard Error / Warnings ---
+[RUNNER] Saved plot to C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\09_AWGN_and_Channel_Modeling\outputs\awgn_channel.png
+C:\Users\mohdf\OneDrive\Desktop\ECE-Communication-Engineering-Sims\.temp_runner\sitecustomize.py:35: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  original_show(*args, **kwargs)
